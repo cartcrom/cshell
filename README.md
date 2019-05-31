@@ -6,5 +6,5 @@ Use make to compile executable
   
 Usage Syntax:  
 ./a.out  
-:-) <input commands here>  
+:-) *input UNIX commands here*
 :-) exit  
